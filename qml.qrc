@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/icon.png</file>
+        <file>main.cpp</file>
+        <file>MetroPanelButton.qml</file>
+        <file>MetroButton.qml</file>
+        <file>request.js</file>
+        <file>LibraryListItem.qml</file>
+        <file>ViewPanel.qml</file>
+    </qresource>
+</RCC>
